@@ -1,5 +1,5 @@
 # Brad Peng - CPSC 210 Personal Project
-
+Project worked on September 2020 - December 2020
 ## Reminder Application
 
 **Overview**
